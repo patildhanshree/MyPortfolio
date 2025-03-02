@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.img_glow{
+    box-shadow: 0 0 55px rgb(206 , 71,193);
+}
+.glow{
+    transition: all 0.3s ease-in-out;
+}
+
+*
+{
+    scroll-behavior: smooth;
+}
