@@ -2,8 +2,8 @@ import React from 'react'
 import Navbar from './componets/Navbar'
 import Hero from './componets/Hero'
 import About from './componets/About'
-import Footer from './componets/footer'
-import Projects from './componets/projects'
+import Footer from './componets/Footer'
+import Projects from './componets/Projects'
 import Contact from './componets/Contact'
 
 function App() {
