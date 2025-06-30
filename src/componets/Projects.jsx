@@ -1,5 +1,5 @@
 {/*import React from 'react'
-import ProjectCard from './projectsCard'
+import ProjectCard from './ProjectsCard'
 
 const Projects = () =>  {
   return (
@@ -18,7 +18,7 @@ const Projects = () =>  {
 
 export default Projects*/}
 import React from 'react'
-import ProjectCard from './projectsCard'
+import ProjectCard from './ProjectsCard'
 
 const Projects = () => {
   return (
