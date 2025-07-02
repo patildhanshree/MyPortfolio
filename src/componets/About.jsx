@@ -10,7 +10,7 @@ function About() {
           <img
             src={about}
             alt=""
-            className="w-72 h-80 rounded hover:scale-105 object-cover mb-8 md:mb-0 border-2 p-1 border-fuchsia-500 img_glow object-cover"
+            className="w-72 h-80 rounded hover:scale-105 object-cover mb-8 md:mb-0 border-2 p-1 border-fuchsia-500 img_glow "
           />
           <div className="flex-1">
             <p className="text-lg mb-8">
